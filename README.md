@@ -14,7 +14,7 @@ This GitHub project is simple sudoku solver algorithm in C++ using Backtraking m
 ### Installation:
 1. [ ] Clone this project from GitHub
 2. [ ] Open the project folder in your preferred C++ IDE or code editor.
-3. [ ] Change in game field data in main.cpp.
+3. [ ] Change field data in main.cpp.
    
  ![image](https://github.com/vitalii-soroka/Sudoku_Solver/assets/58570486/889e7e0f-92c2-4bd9-92dd-47ed88fe4c13)
 
